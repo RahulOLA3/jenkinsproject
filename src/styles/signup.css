@@ -1,0 +1,19 @@
+.signup{
+    text-align: center;
+    position: relative;
+    left: 25%;
+    margin-top: 20px;
+    border: lightgray solid 1px;
+    background: white;
+    padding: 18px;
+    width: 50%;
+}
+.signup_header{
+    margin-bottom: 25px;
+}
+.signup_textbox{
+    margin-top: 10px;
+}
+.forgot-password{
+    margin-top: 20px;
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: whitesmoke;
+}
+.login{
+    text-align: center;
+    margin-top: 70px;
+}
+.login_container{
+    /* border: lightgray solid 1px; */
+    background: white;
+    border-radius: 3px;
+    padding: 18px;
+}
+.login_header{
+    padding: 20px;
+}
+.login_textbox{
+    /* margin: 10px; */
+}
+
+.login_signup{
+    margin-top: 20px;
+}
+
+.login_error{
+    color: red;
+    font-weight: bold;
+    
+}
